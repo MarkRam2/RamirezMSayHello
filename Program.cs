@@ -1,4 +1,9 @@
-﻿Console.Clear();
+﻿// Mark Ramirez
+// 10/18/2022
+// this askes your name and that's pretty much it
+
+
+Console.Clear();
 bool playing = true;
 
 while(playing == true)
@@ -25,6 +30,5 @@ playing = true;
 yessir = false;
 playing = false;
 }
-
 }
 }
