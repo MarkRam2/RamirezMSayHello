@@ -21,8 +21,6 @@ Console.WriteLine($"so uh {name} want me to say all that then just type in yes o
 string responce = Console.ReadLine();
 while(yessir == true)
 {
-Console.WriteLine($"so like i need a yes or no not this \"{responce}\" ");
-responce = Console.ReadLine();
 responce.ToLower();
 if(responce == "yes" ){
 yessir = false;
@@ -30,6 +28,9 @@ playing = true;
 }else if(responce == "no" ){
 yessir = false;
 playing = false;
+}else{
+Console.WriteLine($"so like i need a yes or no not this \"{responce}\" ");
+responce = Console.ReadLine();
 }
 }
 }
