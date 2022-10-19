@@ -6,13 +6,24 @@
 
 Console.Clear();
 bool playing = true;
+int idk = 0;
 
 while(playing == true)
 {
 playing = true;
 
+validation = true;
+while(validation == true){
 Console.WriteLine("Hey man what's your name.");
 string name = Console.ReadLine();
+
+    bool NuM1 = Int32.TryParse(name, out idk);
+    if(NuM1 == false ){
+        validation = false;
+    }else if(NuM1 == true){
+    }
+}
+
 
 Console.WriteLine($"alright that's cool bro see you later {name} .");
 
