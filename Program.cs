@@ -12,7 +12,7 @@ while(playing == true)
 {
 playing = true;
 
-validation = true;
+bool validation = true;
 while(validation == true){
 Console.WriteLine("Hey man what's your name.");
 string name = Console.ReadLine();
