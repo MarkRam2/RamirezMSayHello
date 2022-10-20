@@ -21,3 +21,10 @@ C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.
 C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.dll
 C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\refint\SayHello.dll
 C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.pdb
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\bin\Debug\net6.0\SayHello.exe
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\bin\Debug\net6.0\SayHello.deps.json
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\bin\Debug\net6.0\SayHello.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\bin\Debug\net6.0\SayHello.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\bin\Debug\net6.0\SayHello.pdb
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\ref\SayHello.dll
