@@ -13,3 +13,11 @@ C:\Users\Mark\Desktop\codeclass\SayHello\obj\Debug\net6.0\refint\SayHello.dll
 C:\Users\Mark\Desktop\codeclass\SayHello\obj\Debug\net6.0\SayHello.pdb
 C:\Users\Mark\Desktop\codeclass\SayHello\obj\Debug\net6.0\SayHello.genruntimeconfig.cache
 C:\Users\Mark\Desktop\codeclass\SayHello\obj\Debug\net6.0\ref\SayHello.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\refint\SayHello.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\RamirezMSayHello\obj\Debug\net6.0\SayHello.pdb

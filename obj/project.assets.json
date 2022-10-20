@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mark\\.nuget\\packages\\": {}
+    "C:\\Users\\petec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mark\\Desktop\\codeclass\\SayHello\\SayHello.csproj",
+      "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\RamirezMSayHello\\SayHello.csproj",
       "projectName": "SayHello",
-      "projectPath": "C:\\Users\\Mark\\Desktop\\codeclass\\SayHello\\SayHello.csproj",
-      "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mark\\Desktop\\codeclass\\SayHello\\obj\\",
+      "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\RamirezMSayHello\\SayHello.csproj",
+      "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\RamirezMSayHello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
