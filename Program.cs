@@ -5,9 +5,9 @@
 
 
 Console.Clear();
-bool playing = true;
 int idk = 0;
 
+bool playing = true;
 while(playing == true)
 {
 playing = true;
