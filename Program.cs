@@ -2,7 +2,7 @@
 // 10/18/2022
 // say hello
 // this askes your name and that's pretty much it
-
+string name = "";
 
 Console.Clear();
 int idk = 0;
@@ -15,7 +15,7 @@ playing = true;
 bool validation = true;
 while(validation == true){
 Console.WriteLine("Hey man what's your name.");
-string name = Console.ReadLine();
+name = Console.ReadLine();
 
     bool NuM1 = Int32.TryParse(name, out idk);
     if(NuM1 == false ){
